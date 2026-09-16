@@ -1,1 +1,1 @@
-Build th Smallest To Scalable Applications from Scratch
+Build the Smallest To Scalable Applications from Scratch
