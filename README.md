@@ -1,1 +1,1 @@
-Build the Smallest To Scalable Applications from Scratch
+Smallest AI APP
